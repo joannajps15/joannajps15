@@ -7,7 +7,9 @@ I'm a 2B Computer Engineering student at the University of Waterloo.
 My current experience is related to software development, although I am also interested in hardware. 
 My projects were developed completely independently or for school projects. 
 
-Connect with me :blush:
+---
+
+## :blush: Connect with me :blush:
 <p>
   <a href="https://www.linkedin.com/in/joanna-sebastiampillai/">
     <img alt="LinkedIn" title ="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2" />

@@ -3,6 +3,7 @@
 **`Computer Engineering Undergrad (Full-Stack/Embedded)`**
 
 Hey, I'm a 2B Computer Engineering undergrad at the University of Waterloo. 
+
 Welcome to my humble abode! Feel free to explore my projects
 
 ## :blush: Connect with me

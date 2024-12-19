@@ -2,10 +2,8 @@
 
 **`Computer Engineering Undergrad (Full-Stack/Embedded)`**
 
-I'm Joanna, a 2B Computer Engineering student at the University of Waterloo.
-
-My experience is based in software development, although I am also interested in hardware. 
-My projects were developed completely independently or for school projects. 
+Hey, I'm a 2B Computer Engineering undergrad at the University of Waterloo. 
+Welcome to my humble abode! Feel free to explore my projects
 
 ## :blush: Connect with me
 <p>
